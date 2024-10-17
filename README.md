@@ -27,4 +27,4 @@ I'm a backend developer specializing in Node.js and JavaScript frameworks. I hav
 Programming is not just a job for me; it's my way of life. I live and breathe coding.
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyaaghdam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yahyaaghdam.ir@gmail.com)
