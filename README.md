@@ -12,10 +12,10 @@ I'm a backend developer specializing in Node.js and JavaScript frameworks. I hav
 - **Databases**: Have worked with almost all types of databases.
 
 ## 🔥 Current Projects
-- **[Blockchain Project](https://github.com/blvchain)**: Developing a lightweight blockchain with enhanced security compared to existing solutions.
+- **[BLVchain Project](https://github.com/blvchain)**: Developing a lightweight blockchain with enhanced security compared to existing solutions.
 - **Open-Source Repositories**:
   - **[guardflux ](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
-  - **[Gest.js](https://github.com/Yahya-Aghdam/Gest.js)**: A backend service for real-time chat applications.
+  - **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
   - **[Nest-auther](https://github.com/Yahya-Aghdam/Nest-auther)**: A repository for user authentication with providers like Google and GitHub, as well as basic email sign-up using JWT.
   - **[Delium](https://github.com/blvchain/deliu,)**: A lib for making super strong hash based on deleting.
 
