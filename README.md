@@ -11,13 +11,12 @@ I'm a backend developer specializing in Node.js and JavaScript frameworks. I hav
   - ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
 - **Databases**: Have worked with almost all types of databases.
 
-## 🔥 Current Projects
-- **[BLVchain Project](https://github.com/blvchain)**: Developing a lightweight blockchain with enhanced security compared to existing solutions.
-- **Open-Source Repositories**:
-  - **[Guardflux ](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
-  - **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
-  - **[Nest-auther](https://github.com/Yahya-Aghdam/Nest-auther)**: A repository for user authentication with providers like Google and GitHub, as well as basic email sign-up using JWT.
-  - **[Delium](https://github.com/blvchain/delium)**: A lib for making super strong hash based on deleting.
+## 🔥 Open-Source Repositories
+- **[linksmith](https://github.com/Yahya-Aghdam/linksmith)**: A flexible and powerful TypeScript-based URL builder.
+- **[Guardflux](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
+- **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
+- **[Nest-auther](https://github.com/Yahya-Aghdam/Nest-auther)**: A repository for user authentication with providers like Google and GitHub, as well as basic email sign-up using JWT.
+- **[Delium](https://github.com/blvchain/delium)**: A lib for making super strong hash based on deleting.
 
 ## 🎯 Goals & Interests
 - **Learning Goals**: Dive deeper into data handling methods and attack prevention to create more secure systems.
