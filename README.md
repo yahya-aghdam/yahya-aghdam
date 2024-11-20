@@ -4,9 +4,9 @@
 
 I am a **Node.js Developer** with practical experience in building backend applications. My primary focus is on developing secure, scalable, and maintainable systems using **TypeScript** and modern JavaScript frameworks. I enjoy solving real-world problems through clean code, efficient architectures, and reliable services.
 
-<h2 style="align: center; display: flex; flex-direction: row;"> 
+<h2> 
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-  <p style="margin-left: 8px;">Skills</p>
+  Skills
 </h2>
 
 - **Languages**:
