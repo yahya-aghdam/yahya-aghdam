@@ -12,6 +12,7 @@ I'm a backend developer specializing in Node.js and JavaScript frameworks. I hav
 - **Databases**: Have worked with almost all types of databases.
 
 ## 🔥 Open-Source Repositories
+- **[gAuthCraft](https://github.com/yahya-aghdam/gAuthCraft)**: a light microservice and flexible auth system for Google Oauth 2 that works with gRPC and easily deploy with Docker.
 - **[linksmith](https://github.com/Yahya-Aghdam/linksmith)**: A flexible and powerful TypeScript-based URL builder.
 - **[Guardflux](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
 - **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
