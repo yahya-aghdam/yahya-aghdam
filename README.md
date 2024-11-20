@@ -1,30 +1,68 @@
-# Hi there, I'm Yahya Parvin Aghdam 👋
+# Hi there, I'm Yahya Aghdam 👋
 
 ## 🚀 About Me
-I'm a backend developer specializing in Node.js and JavaScript frameworks. I have a strong passion for creating secure solutions and solving complex challenges. I have written several repositories that could be helpful to the developer community.
 
-## 🛠️ Tech Stack
-- **Languages**: Experienced with various programming languages due to my electronics background, but my main focus is on Node.js.
+I am a **Node.js Developer** with practical experience in building backend applications. My primary focus is on developing secure, scalable, and maintainable systems using **TypeScript** and modern JavaScript frameworks. I enjoy solving real-world problems through clean code, efficient architectures, and reliable services.
+
+<h2 style="align: center; display: flex;"> 
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+  <div style="margin-left: 8px;">Skills</div>
+</h2>
+
+- **Languages**:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 - **Frameworks**:  
-  - ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=white)  
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)  
-  - ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
-- **Databases**: Have worked with almost all types of databases.
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+- **Deployment**:
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+- **Databases**:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔥 Open-Source Repositories
-- **[gAuthCraft](https://github.com/yahya-aghdam/gAuthCraft)**: a light microservice and flexible auth system for Google Oauth 2 that works with gRPC and easily deploy with Docker.
+
+- **[gAuthCraft](https://github.com/yahya-aghdam/gAuthCraft)**: a light microservice and flexible auth system for Google Oauth 2 that works with gRPC and easily deploy with Docker and Jenkins.
 - **[linksmith](https://github.com/Yahya-Aghdam/linksmith)**: A flexible and powerful TypeScript-based URL builder.
 - **[Guardflux](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
 - **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
 - **[Nest-auther](https://github.com/Yahya-Aghdam/Nest-auther)**: A repository for user authentication with providers like Google and GitHub, as well as basic email sign-up using JWT.
 - **[Delium](https://github.com/blvchain/delium)**: A lib for making super strong hash based on deleting.
 
-## 🎯 Goals & Interests
-- **Learning Goals**: Dive deeper into data handling methods and attack prevention to create more secure systems.
-- **Passionate About**: Blockchain, security, and building lightweight, resource-efficient applications with high security.
+## My Github Statistics
 
-## 💬 Fun Fact
-Programming is not just a job for me; it's my way of life. I live and breathe coding.
+<div style="flex-direction: column; display: flex; align-items: center;">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-aghdam&show_icons=true&theme=algolia&locale=en&layout=compact" alt="yahya-aghdam" />
+  </p>
+  <br>
+  <p>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yahya-aghdam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="yahya-aghdam" />
+  </p>
+</div>
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yahyaaghdam.ir@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyaaghdam.ir@gmail.com)
