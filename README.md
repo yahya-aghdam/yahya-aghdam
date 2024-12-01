@@ -1,7 +1,7 @@
 # Hi there, I'm Yahya Aghdam 👋
 
 ## 🚀 About Me
-
+Founder and CEO at [Matin ramznegar](https://github.com/Matinramznegar)
 I am a **Node.js Developer** with practical experience in building backend applications. My primary focus is on developing secure, scalable, and maintainable systems using **TypeScript** and modern JavaScript frameworks. I enjoy solving real-world problems through clean code, efficient architectures, and reliable services.
 
 <h2> 
@@ -49,7 +49,7 @@ I am a **Node.js Developer** with practical experience in building backend appli
 - **[Guardflux](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
 - **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
 - **[Nest-auther](https://github.com/Yahya-Aghdam/Nest-auther)**: A repository for user authentication with providers like Google and GitHub, as well as basic email sign-up using JWT.
-- **[Delium](https://github.com/blvchain/delium)**: A lib for making super strong hash based on deleting.
+- **[Delium](https://github.com/Matinramznegar/delium)**: A lib for making super strong hash based on deleting.
 
 ## My Github Statistics
 
