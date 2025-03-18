@@ -1,7 +1,7 @@
 # Hi there, I'm Yahya Aghdam 👋
 
 ## 🚀 About Me
-Founder and CEO at [BLVchain](https://github.com/blvchain)
+Creator of [BLVchain](https://github.com/blvchain)
 <br/>
 I am a **Node.js Developer** with practical experience in building backend applications. My primary focus is on developing secure, scalable, and maintainable systems using **TypeScript** and modern JavaScript frameworks. I enjoy solving real-world problems through clean code, efficient architectures, and reliable services.
 
@@ -45,7 +45,7 @@ I am a **Node.js Developer** with practical experience in building backend appli
 
 ## 🔥 Open-Source Repositories
 
-- **[multipay](https://github.com/yahya-aghdam/multipay)**: Accept multi cryptocurrency coins for payment and verify it.
+- **[multipay](https://github.com/yahya-aghdam/multipay)**: Accept multi cryptocurrency (eth,bsc,tron,pac,usdt ...) coins for payment and verify it.
 - **[gAuthCraft](https://github.com/yahya-aghdam/gAuthCraft)**: a light microservice and flexible auth system for Google Oauth 2 that works with gRPC and easily deploy with Docker and Jenkins.
 - **[Guardflux](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
 - **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
