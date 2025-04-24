@@ -50,7 +50,6 @@ I am a **Node.js Developer** with practical experience in building backend appli
 - **[multipay](https://github.com/yahya-aghdam/multipay)**: Accept multi cryptocurrency (eth,bsc,tron,pac,usdt ...) coins for payment and verify it.
 - **[gAuthCraft](https://github.com/yahya-aghdam/gAuthCraft)**: a light microservice and flexible auth system for Google Oauth 2 that works with gRPC and easily deploy with Docker and Jenkins.
 - **[Guardflux](https://github.com/Yahya-Aghdam/guardflux)**: A light callable lib to keep your API alive.
-- **[Chest.js](https://github.com/yahya-aghdam/Chest.js)**: A backend service for real-time chat applications.
 - **[Nest-auther](https://github.com/Yahya-Aghdam/Nest-auther)**: A repository for user authentication with providers like Google and GitHub, as well as basic email sign-up using JWT.
 - **[linksmith](https://github.com/Yahya-Aghdam/linksmith)**: A flexible and powerful TypeScript-based URL builder.
 
